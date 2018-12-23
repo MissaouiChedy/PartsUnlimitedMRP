@@ -10,5 +10,6 @@ public class BadRequestException
     public BadRequestException(String message)
     {
         super(message);
+        // int a = 1 + 2;
     }
 }
